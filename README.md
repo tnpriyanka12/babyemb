@@ -1,7 +1,7 @@
 Click: 
 https://tnpriyanka12.github.io/babyemb/
 
-__Best Viewed: In Desktop __
+__: Best Viewed In Desktop __
 
 __TODO__: Yet to make it responsive. 
 
