@@ -7,5 +7,5 @@ Working on color schemes and trying to build the layout in circle/hexagon
 
 No way related to original website. 
 
-![original](/images/original_babyemb_homepage.PNG?raw=true "Optional Title")
+![change](/images/final_Design.PNG?raw=true "Optional Title")
 
