@@ -1,8 +1,9 @@
 Click: 
 https://tnpriyanka12.github.io/babyemb/
 
-Best Viewed: In Desktop 
-TODO: Yet to make it responsive. 
+__Best Viewed: In Desktop __
+
+__TODO__: Yet to make it responsive. 
 
 Just trying to take an existing site and improvise it!
 Working on color schemes and trying to build the layout in circle/hexagon
